@@ -1,0 +1,1 @@
+What is the value of SQLAlchemy?SQLAlchemy is valuable for its purpose of performing actions to the SQL databases easier.What is a model?A model is the structure or template of the databases created on an SQL server.What is a view?A view is the set of stored query, like virtual tables with rows and columns.
